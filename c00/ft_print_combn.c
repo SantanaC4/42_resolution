@@ -3,15 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_combn.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aprotoce <aprotoce@student.42sp.org.br>    +#+  +:+       +#+        */
+/*   By: edrodrig <edrodrig@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/03 11:49:35 by aprotoce          #+#    #+#             */
-/*   Updated: 2021/04/08 09:21:19 by aprotoce         ###   ########.fr       */
+/*   Updated: 2021/04/12 01:31:56 by edrodrig         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdbool.h>
 #include <unistd.h>
 
 /*int resetvar(int n[], int ia, int id, int imax)
