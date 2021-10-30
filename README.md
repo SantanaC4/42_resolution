@@ -1,2 +1,2 @@
-# 42_resolution
+# 42_resolution_basecamp
 42
